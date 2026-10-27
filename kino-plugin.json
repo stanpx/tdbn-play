@@ -1,7 +1,7 @@
 {
   "id": "tdbn-play",
   "name": "TDBN Play",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "apiVersion": 5,
   "entry": "plugin.js",
   "description": "Todo en un solo lugar. Películas, series, anime y TV en vivo independiente.",
@@ -28,9 +28,9 @@
     "anime",
     "live"
   ],
-  "icon": "icon.png",
+  "icon": "tdbn-icon.png",
   "signature": {
     "authorKey": "1620221bcf6bfae0382c71590238dbfb173d2ea1088b1ca83a7762f6dab17f49",
-    "value": "7ec1cffb1433c89d3e62b661ac6d31a57a9d9616af784e16b21d5aadef77e569148de0cf474ec80bb071c2b2a9efb0564a930cf70ee17908e5e0f5446d972c05"
+    "value": "8d0b9ce58856e0be246564dbb5d37f234c24f95cee1e3c0fc78b92721eeb83134aeca46e4ea9205eafe1561a59250979c0fce06afe95378159a3f9845424220a"
   }
 }
